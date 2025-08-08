@@ -1,4 +1,7 @@
-# Tutedude-Coursework
-All related assignment and projects 
+# Tutedude Python Coursework
 
-Assignment1: Task1.py, Task2.py
+This repository contains completed assignments for the Tutedude Python course.
+
+## Contents
+- Assignment 1
+- Assignment 2
